@@ -1,0 +1,9 @@
+# Folder środowiska wirtualnego
+venv/
+
+# Pliki cache Pythona
+__pycache__/
+*.pyc
+
+# Plik ze zmiennymi środowiskowymi (SEKRETY!)
+.env
